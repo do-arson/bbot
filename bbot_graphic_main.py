@@ -4,9 +4,9 @@ from bbot_engine import *
 import pygame as pg
 import time
 
-#TODO: make log notes clickable
 
-PLAYER_1 = False #true for user, false for bot
+
+PLAYER_1 = True #true for user, false for bot
 PLAYER_2 = False #true for user, false for bot
 DEPTH = 3
 TIME_LIMIT = 120 #s to complete for cmp
@@ -53,6 +53,9 @@ HIGHLIGHT_OPACITY = 160
 MAX_FPS = 60
 
 image_names = ["wQ", "wB", "wR", "bQ", "bB", "bR"]
+
+
+
 images = {}
 
 def loadImages(w, h, file_names):
