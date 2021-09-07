@@ -1,7 +1,7 @@
 # bbot
 bot for barca chess variant
 
-bbot_graphic_main:
+bbot_graphic_main: (run this)
 graphic interface + visual settings
 
 bbot_main:
