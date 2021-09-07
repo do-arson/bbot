@@ -5,7 +5,7 @@ bbot_graphic_main: (run this)
 graphic interface + visual settings
 
 bbot_main:
-ascii interface, text input -- ability to show full lines
+ascii interface, text input -- able to show full line in settings
 
 bbot_engine:
 contains minimax search
